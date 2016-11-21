@@ -1,0 +1,25 @@
+<svg id="bg.svg" xmlns="http://www.w3.org/2000/svg" width="1321" height="1150" viewBox="0 0 1321 1150">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ef5350;
+      }
+
+      .cls-2 {
+        fill: #e94643;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #fefcf2;
+      }
+    </style>
+  </defs>
+  <rect id="Hero_BG" data-name="Hero BG" class="cls-1" x="-45" y="-4" width="1366" height="1100"/>
+  <rect id="Hero_BG_copy" data-name="Hero BG copy" class="cls-2" x="-45" y="-1000" width="1366" height="1100"/>
+  <rect id="White_BG" data-name="White BG" class="cls-3" x="-57" y="683" width="1378" height="500"/>
+  <rect id="Footer_Yellow" data-name="Footer Yellow" class="cls-4" x="-57" y="1077" width="1378" height="100"/>
+</svg>

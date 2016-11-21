@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="147" height="34" viewBox="0 0 147 34">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 35px;
+        fill: #fff;
+        font-family: Montserrat;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #fefcf2;
+      }
+    </style>
+  </defs>
+  <text id="indipixel.svg" class="cls-1" x="-2.307" y="26.667">indi<tspan class="cls-2">pixel</tspan></text>
+</svg>

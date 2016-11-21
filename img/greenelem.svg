@@ -1,0 +1,19 @@
+<svg id="greenelem.svg" xmlns="http://www.w3.org/2000/svg" width="627" height="852" viewBox="0 0 627 852">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #69f0ae;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #04e4a2;
+      }
+    </style>
+  </defs>
+  <path id="Green_Diagonal_Line" data-name="Green Diagonal Line" class="cls-1" d="M-328,162L604,874l23-85L-229,129Z" transform="translate(0 -22)"/>
+  <path id="Green_Diagonal_Line-2" data-name="Green Diagonal Line" class="cls-2" d="M-339,55L593,767l23-85L-240,22Z" transform="translate(0 -22)"/>
+</svg>
